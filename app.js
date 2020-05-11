@@ -1,0 +1,1 @@
+console.log('usando gitclone e gitpull')
